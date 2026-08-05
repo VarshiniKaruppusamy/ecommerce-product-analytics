@@ -108,15 +108,15 @@ Business Recommendations
 
 ## Key Business Insights
 
-✔ High-revenue categories contribute a significant share of total sales.
+ - High-revenue categories contribute a significant share of total sales.
 
-✔ Delivery delays correlate with lower customer review scores.
+ - Delivery delays correlate with lower customer review scores.
 
-✔ Most customers make only one purchase, highlighting opportunities to improve retention.
+ - Most customers make only one purchase, highlighting opportunities to improve retention.
 
-✔ Credit cards are the most frequently used payment method.
+ - Credit cards are the most frequently used payment method.
 
-✔ Revenue follows seasonal purchasing patterns.
+ - Revenue follows seasonal purchasing patterns.
 
 ---
 
@@ -155,7 +155,6 @@ Interactive dashboards covering:
 data/
 notebooks/
 dashboards/
-presentation/
 documentation/
 images/
 ```
